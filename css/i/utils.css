@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Code+Pro:wght@300&display=swap');
+
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 3px 10px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border: 2px solid white;
+    border-radius: 7px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}
